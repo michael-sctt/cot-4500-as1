@@ -1,1 +1,2 @@
-
+*** Required Libraries
+** Numpy: In terminal, use the command "pip install numpy"
