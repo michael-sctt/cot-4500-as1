@@ -124,7 +124,7 @@ def bisection(tol):
 
     i = 0
     max_its = 50
-    #p = 0
+    p = 0
 
     while (np.abs(right - left) > tol and i < max_its):
         i += 1
